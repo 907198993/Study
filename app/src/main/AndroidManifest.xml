@@ -16,6 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
+        <activity android:name=".databing.ui.BaseObservableActivity"/>
+
+        <activity android:name=".databing.ui.ObservableFieldAvtivity"/>
+
+        <activity android:name=".databing.ui.ObservableCollectActivity"/>
     </application>
 
 </manifest>
