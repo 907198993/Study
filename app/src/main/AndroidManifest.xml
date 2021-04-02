@@ -17,12 +17,25 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".databing.ui.RecyclerViewActivity"/>
+        <activity android:name=".databing.ui.AlisActivity"/>
+
+        <activity android:name=".databing.ui.BaseUseActivity"/>
 
         <activity android:name=".databing.ui.BaseObservableActivity"/>
 
         <activity android:name=".databing.ui.ObservableFieldAvtivity"/>
 
         <activity android:name=".databing.ui.ObservableCollectActivity"/>
+
+        <activity android:name=".databing.ui.DatabingActivity"/>
+
+        <activity android:name=".databing.ui.IncludeActivity"/>
+
+        <activity android:name=".databing.ui.ViewStubActivity"/>
+
+        <activity android:name=".databing.ui.BindingAdapterActivity"/>
+
     </application>
 
 </manifest>
