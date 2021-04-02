@@ -1,2 +1,3 @@
 rootProject.name='xypStydy'
 include ':app'
+include ':view_model'

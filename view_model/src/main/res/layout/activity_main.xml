@@ -20,7 +20,5 @@
             android:text="Hello World!"
             android:onClick="@{onClickListener}"
              />
-
-
     </LinearLayout>
 </layout>
